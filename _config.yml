@@ -17,3 +17,7 @@ url: "https://squishyratz.tk" # the base hostname & protocol for your site
 markdown: kramdown
 #host: 172.31.254.40 
 #port: 8080
+
+#Support a RSS feed
+gems:
+  - jekyll-feed
