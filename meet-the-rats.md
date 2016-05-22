@@ -4,7 +4,6 @@ title: Meet the Ratz
 permalink: /meet-the-ratz
 ---
 
-# Meet the ratz
 
 ## Toopy
 
